@@ -1,0 +1,70 @@
+﻿фабула: детектив { магия + космос }
+
+место: космическая орбитальная станция-город спец. на обучении магии.
+
+ГГ: частный детектив? детектив? один из помощников?
+
+формат: короткие рассказы. один рассказ - одно дело.
+
+жанр: фантастика + альт. история
+
+
+====
+
+7 рассказов, по кол-ву "главных" историй
+
+1. Overcoming the monster -- defeating some force which threatens. e.g. most Hollywood movies; Star Wars, James Bond.
+
+2. The Quest -- typically a group set off in search of something and (usually) find it.e.g. Watership Down, Pilgrim's Progress.
+
+3. Journey and Return --the hero journeys away from home to somewhere different and finally comes back having experienced something and maybe changed for the better. e.g. Wizard of Oz, Gullivers Travels.
+
+4. Comedy - not neccesarily a funny plot. Some kind of
+misunderstanding or ignorance is created that keeps parties apart which is resolved towards the end bringing them back together. e.g.
+Bridget Jones Diary, War and Peace.
+
+5. Tragedy - Someone is tempted in some way, vanity, greed etc and becomes increasingly desperate or trapped by their actions until at a climax they usually die. Unless it's a Hollywood movie, when they escape to a happy ending. e.g. Devils' Advocate, Hamlet.
+
+6. Rebirth - hero is captured or oppressed and seems to be in a state of living death until it seems all is lost when miraculously they are freed. e.g. Snow White.
+
+7. Rags to Riches - self explanatory really. e.g. Cinderella &
+derivatives
+
+
+1 Killing the Monster
+2 Quest
+3 Voyage and Return
+4 Comedy
+5 Tragedy
+6 Rebirth
+7 Rags to Riches
+
+
+1 - man vs. nature 
+2 - man vs. man 
+3 - man vs. the environment 
+4 - man vs. machines/technology 
+5 - man vs. the supernatural 
+6 - man vs. self 
+7 - man vs. god/religion 
+
+
+1.4. Killing the Monster (KTM), man vs nature
+2.7. Quest, man vs man
+3.1. Voyage and Return (VAR), man vs the environment ("Поход в андерграунд/подземку/вент.шахты", ???)
+4.5. Comedy, man vs. machines/technology
+5.2. Tragedy, man vs. the supernatural
+6.6. Rebirth, man vs. self ()
+7.3. Rags to Riches (RTR), man vs. god/religion (Конфронтация с отцом-священником, неприятелем магии. Побег из дома в попытке поступить в школу магии. Неудача. Первое дело, знакомство с начальством школы, зачисление по факту раскрытия дела. В теме а-ля "взгляд назад".)
+
+
+i. Rebirth, Comedy
+ii. RTR
+iii. Quest, Comedy
+iv. VAR
+v. Rebirth, Comedy, Quest
+vi. Tragedy, KTM
+vii. Tragedy, KTM
+
+
+
